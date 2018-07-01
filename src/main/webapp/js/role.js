@@ -1,2 +1,0 @@
-//@ sourceURL=role.js
-
